@@ -1,0 +1,8 @@
+npm install mongodb
+npm run поехали
+npm install nodemon
+npm install express
+npm init  
+
+
+https://www.npmjs.com/package/mongodb - сайт
