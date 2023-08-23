@@ -5,7 +5,7 @@ const db = client.db('blog', 'posts')
 const router = Router()
 
 router.get('/', (req,res) =>(
-  res.send('Зураб не спит')
+  res.send('Test')
 ))
 
 router.get('/posts', async (request, response) => {
